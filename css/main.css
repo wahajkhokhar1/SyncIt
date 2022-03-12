@@ -6,7 +6,6 @@ hr {
   margin: 1em 0;
   padding: 0;
   background-color: #7fa8ff;
- 
 }
 
 .header {
@@ -64,4 +63,12 @@ hr {
 .paragraph {
   text-indent: 25px;
   background-color: #7fa8ff;
+}
+.newSect {
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 20px;
+  line-height: 1.5;
+  border: 2px solid red;
+  border-radius: 5%;
 }
